@@ -109,6 +109,66 @@
           }
         },
         {
+          "ruleId": "nullPointer",
+          "message": {
+            "text": "Null pointer dereference: py"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "sarif_test.cpp",
+                  "index": 0
+                },
+                "region": {
+                  "startLine": 9
+                }
+              }
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "sarif_test.cpp",
+                            "index": 0
+                          },
+                          "region": {
+                            "startLine": 11
+                          }
+                        }
+                      },
+                      "importance": "essential"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "sarif_test.cpp",
+                            "index": 0
+                          },
+                          "region": {
+                            "startLine": 9
+                          }
+                        }
+                      },
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "Severity": "error"
+          }
+        },
+        {
           "ruleId": "uninitvar",
           "message": {
             "text": "Uninitialized variable: x"
@@ -121,7 +181,7 @@
                   "index": 0
                 },
                 "region": {
-                  "startLine": 11
+                  "startLine": 12
                 }
               }
             }
@@ -199,7 +259,7 @@
         {
           "ruleId": "unreadVariable",
           "message": {
-            "text": "Variable &#039;y&#039; is assigned a value that is never used."
+            "text": "Variable &#039;new&#039; is assigned a value that is never used."
           },
           "locations": [
             {
@@ -210,6 +270,28 @@
                 },
                 "region": {
                   "startLine": 11
+                }
+              }
+            }
+          ],
+          "properties": {
+            "Severity": "style"
+          }
+        },
+        {
+          "ruleId": "unreadVariable",
+          "message": {
+            "text": "Variable &#039;y&#039; is assigned a value that is never used."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "sarif_test.cpp",
+                  "index": 0
+                },
+                "region": {
+                  "startLine": 12
                 }
               }
             }

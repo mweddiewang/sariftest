@@ -8,5 +8,6 @@ void foo()
 	int x;
 	int* py = nullptr;
 	int y = *py;    // C6011 
+	int new = *py;    // C6011 
 	y += x;         // C6001 
 }
