@@ -13,7 +13,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "sarif_test.cpp",
+                  "uri": "C:\Users\wange\source\repos\sarif_test\sarif_test\sarif_test.cpp",
                   "index": 0
                 },
                 "region": {
@@ -35,7 +35,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "sarif_test.cpp",
+                  "uri": "C:\Users\wange\source\repos\sarif_test\sarif_test\sarif_test.cpp",
                   "index": 0
                 },
                 "region": {
@@ -57,7 +57,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "sarif_test.cpp",
+                  "uri": "C:\Users\wange\source\repos\sarif_test\sarif_test\sarif_test.cpp",
                   "index": 0
                 },
                 "region": {
@@ -75,7 +75,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "sarif_test.cpp",
+                            "uri": "C:\Users\wange\source\repos\sarif_test\sarif_test\sarif_test.cpp",
                             "index": 0
                           },
                           "region": {
@@ -89,7 +89,7 @@
                       "location": {
                         "physicalLocation": {
                           "artifactLocation": {
-                            "uri": "sarif_test.cpp",
+                            "uri": "C:\Users\wange\source\repos\sarif_test\sarif_test\sarif_test.cpp",
                             "index": 0
                           },
                           "region": {
@@ -117,7 +117,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "sarif_test.cpp",
+                  "uri": "C:\Users\wange\source\repos\sarif_test\sarif_test\sarif_test.cpp",
                   "index": 0
                 },
                 "region": {
@@ -139,7 +139,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "sarif_test.cpp",
+                  "uri": "C:\Users\wange\source\repos\sarif_test\sarif_test\sarif_test.cpp",
                   "index": 0
                 },
                 "region": {
@@ -161,7 +161,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "sarif_test.cpp",
+                  "uri": "C:\Users\wange\source\repos\sarif_test\sarif_test\sarif_test.cpp",
                   "index": 0
                 },
                 "region": {
@@ -183,7 +183,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "sarif_test.cpp",
+                  "uri": "C:\Users\wange\source\repos\sarif_test\sarif_test\sarif_test.cpp",
                   "index": 0
                 },
                 "region": {
@@ -205,7 +205,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "sarif_test.cpp",
+                  "uri": "C:\Users\wange\source\repos\sarif_test\sarif_test\sarif_test.cpp",
                   "index": 0
                 },
                 "region": {
@@ -228,7 +228,7 @@
       "artifacts": [
         {
           "location": {
-            "uri": "sarif_test.cpp"
+            "uri": "C:\Users\wange\source\repos\sarif_test\sarif_test\sarif_test.cpp"
           }
         }
       ],
