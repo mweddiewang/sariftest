@@ -10,12 +10,13 @@
     {
       "tool": {
         "driver": {
-          "name": "Code Analyzer"
+          "name": "Code Analyzer",
+    	  "version": "2.8.0"
         }
       },
       "results": [
         {
-          "ruleID": "DRNDINT",
+          "ruleId": "DRNDINT",
           "level": "error",
           "message": {
             "text": "'randint' has been removed. With appropriate code changes, use 'randi' instead."
@@ -26,12 +27,6 @@
                 "artifactLocation": {
                   "uri": "file:///Z:/16/eddiew.Bca.j2026720/dFileWithSingleIssue.m"
                 }
-              },
-              "region": {
-                "startLine": 2,
-                "endLine": 2,
-                "startColumn": 1,
-                "endColumn": 7
               }
             }
           ]
