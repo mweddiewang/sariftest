@@ -1,4 +1,4 @@
-name: "Upload SARIF"
+name: "Upload SARIF .m"
 
 # Run workflow each time code is pushed to the repository
 on:
